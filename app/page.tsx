@@ -57,7 +57,7 @@ export default function Home() {
             className="object-contain"
             priority
           />
-          <span className="font-bold text-2xl tracking-tight">NIKE</span>
+          <span className="font-bold text-2xl tracking-tight">kiddiemind</span>
         </div>
         <nav>
           <select
@@ -144,7 +144,7 @@ export default function Home() {
 
       {/* Call to Action Section */}
       <section className="bg-gray-100 py-16 px-4 text-center">
-        <h2 className="text-3xl font-bold mb-4 uppercase">Rejoignez la communauté Nike</h2>
+        <h2 className="text-3xl font-bold mb-4 uppercase">Rejoignez la communauté askiddiemind</h2>
         <p className="text-lg text-gray-700 mb-6">
           Inscrivez-vous pour recevoir les nouveautés et offres exclusives.
         </p>
