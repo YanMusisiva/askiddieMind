@@ -149,7 +149,7 @@ export default function Home() {
           Inscrivez-vous pour recevoir les nouveautés et offres exclusives.
         </p>
         <button className="bg-black text-white px-8 py-3 rounded-full text-lg font-semibold hover:bg-gray-800 transition">
-          S'inscrire
+          S&apos;inscrire
         </button>
       </section>
     </main>
