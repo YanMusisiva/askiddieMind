@@ -154,7 +154,7 @@ export default function Home() {
             className="hidden md:inline-block bg-black text-white px-5 py-2 rounded-md shadow hover:bg-gray-900 transition-colors font-semibold"
             onClick={handleInscription}
           >
-            S'inscrire
+            S&apos;inscrire
           </button>
           {/* Hamburger */}
           <button
@@ -222,7 +222,7 @@ export default function Home() {
                   className="bg-black text-white px-5 py-2 rounded-md shadow hover:bg-gray-900 transition-colors font-semibold"
                   onClick={handleInscription}
                 >
-                  S'inscrire
+                  S&apos;inscrire
                 </button>
               </li>
             </ul>
@@ -312,7 +312,7 @@ export default function Home() {
                   className="bg-black text-white px-6 py-2 rounded-full font-semibold hover:bg-gray-800 transition"
                   onClick={() => handleBuyEbook(ebook.name)}
                 >
-                  Acheter l'ebook
+                  Acheter l&apos;ebook
                 </button>
               </div>
             </SlideUpOnView>
